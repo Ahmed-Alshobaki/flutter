@@ -32,7 +32,6 @@ class home extends StatelessWidget{
 
     margin: EdgeInsets.symmetric(horizontal: 10,vertical: 20),
     padding: EdgeInsets.symmetric(vertical: 10,horizontal: 10),
-
     child:Text("zofgdfgdfgfdtyuty tyuuty tyutyuyt ytdsdfsdfdsfdsfdsfdsd",style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold,decoration:TextDecoration.lineThrough,backgroundColor: Colors.amber),),
     )
   );
@@ -40,4 +39,5 @@ class home extends StatelessWidget{
 
 
 }
+
 
